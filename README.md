@@ -9,5 +9,5 @@ Full-Stack Software Engineer, experienced with JavaScript technologies, Node.js,
 
 🌱 I’m currently looking to expand my knowledge in Python and Ruby. 
 
-📫 How to reach me: emmahpaik@gmail.com
-
+📫 How to reach me:</br>
+![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}) emmahpaik@gmail.com
