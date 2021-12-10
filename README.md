@@ -8,8 +8,6 @@ Full-Stack Software Engineer, experienced with JavaScript technologies, Node.js,
 - https://github.com/ehp2021/consult-sched
 
 🌱 I’m currently looking to expand my knowledge in Python and Ruby. 
-👯 I’m looking to collaborate on Healthcare and/or Medical apps.
-
 
 📫 How to reach me: emmahpaik@gmail.com
 
