@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<i>Java is to JavaScript as ham is to hamster.</i>- Jeremy Keith
+
 Full-Stack Software Engineer, experienced with JavaScript technologies, Node.js, Express, Koa, React, Redux Toolkit, etc.
 
 🔭 Check out my latest projects: 
