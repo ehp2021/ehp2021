@@ -1,4 +1,4 @@
-### Hi there 👋
+### <i>"Java is to JavaScript as ham is to hamster."</i> - Jeremy Keith
 
 Full-Stack Software Engineer, experienced with JavaScript technologies, Node.js, Express, Koa, React, Redux Toolkit, etc.
 
@@ -11,7 +11,7 @@ Full-Stack Software Engineer, experienced with JavaScript technologies, Node.js,
 
 📫 How to reach me: emmahpaik@gmail.com
 
-<i>"Java is to JavaScript as ham is to hamster."</i>- Jeremy Keith
+
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
