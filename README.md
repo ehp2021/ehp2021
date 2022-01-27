@@ -1,4 +1,3 @@
-### Full-Stack Software Engineer, experienced with JavaScript technologies, Node.js, Express, Koa, React, Redux Toolkit, etc.
 
 🔭 Check out my latest projects: 
 - https://github.com/ehp2021/mixed-tape-react 
