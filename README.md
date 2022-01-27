@@ -1,14 +1,9 @@
 
 🔭 Check out my latest projects: 
-- https://github.com/ehp2021/mixed-tape-react 
 - https://github.com/ehp2021/zims 
 - https://github.com/ehp2021/consult-sched
 
-🌱 I’m currently looking to expand my knowledge in Python and Ruby. 
-
-📫 How to reach me: emmahpaik@gmail.com
-
-
+🌱 I’m currently working on python
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
