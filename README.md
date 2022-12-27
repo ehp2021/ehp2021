@@ -3,7 +3,7 @@
 - https://github.com/ehp2021/zims 
 - https://github.com/ehp2021/consult-sched
 
-🌱 I’m currently working on python
+🌱 I’m currently working on learning python
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
